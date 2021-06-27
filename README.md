@@ -17,9 +17,10 @@ JsonPowerDB is a Database Server with Developer friendly REST API services. It's
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
 
-### WebApp Demo:
+### WebApp Video Demo:
 ![demo](https://github.com/azeemaijaz/JsonPowerDB/blob/main/JsonPowerDB_Demo.gif)
 
+[Demo Link](https://azeemaijaz.github.io/JsonPowerDB)
 
 ### Screenshots:
 
